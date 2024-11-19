@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Dan @iamdansky
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Python, JS, HTML, CSS
-- 💞️ I’m looking to collaborate on studying these languages.
+- 👀 I’m interested in IT, Data Analysis and Machine Learning
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking for a collaboration on studying
 - 📫 How to reach me: dansky.work@gmail.com
-
